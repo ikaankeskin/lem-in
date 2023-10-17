@@ -1,0 +1,10 @@
+graph{
+    richard--dinish
+    dinish--jimYoung
+    richard--gilfoyle
+    gilfoyle--peter
+    gilfoyle--erlich
+    richard--erlich
+    erlich--jimYoung
+    jimYoung--peter
+}
